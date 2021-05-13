@@ -1,0 +1,42 @@
+admin_console(): [class]
+
+Hello admin=========
+
+1 - Create Employee account():
+	===============
+========================
+===============
+
+2 - List of Employee Details()
+
+3 - Leave requests [leave table]()
+
+4 - Delete Employee account()
+
+enter your option: 1
+
+c_emp = Create_Employee_account()
+
+
+===============================================
+================================================
+
+employee console: [class]
+
+HEllo emp_____name
+
+displaying his basic details:
+
+username:
+email_id:
+salry:
+pf_no:
+joining date:
+pan:
+leave balance:2
+
+1: Leave request()
+
+2: Search for other emplyoee details()
+
+3: Changing password()

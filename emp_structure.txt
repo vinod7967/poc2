@@ -1,0 +1,54 @@
+"========Welcome string============"
+
+1- login as admin (predefined username and password)
+2- login as employee (admin should define.)
+
+enter your option:2
+
+enter your username: -------
+enter your passward: --------
+
+=================================
+HEllo emp_____name:
+
+displaying his basic details:
+
+username,email_id,salry,pf_no,joining date,pan,leave balance
+
+1: Leave request
+
+2: Search for other emplyoee details
+
+3: Changing password
+
+===============================================
+enter your option:1
+
+From date: 24-04-2021
+			} 3 days 		validations : {1- checking if leave balance is less than asking balance
+								2- validating from date and to date }	
+to date: 27-04-2021
+
+comments:
+
+{updating/creating a leave request row in leave request table}
+============================================
+enter your option:2
+
+Enter the emp_username : 
+
+displaying emp_basic_details:
+{f name, l name, username, email_id, joining_date}
+
+=======================================================
+enter your option:3
+
+enter current password:
+enter new password:
+
+{updating password of perticular emp password in -emp accounts table}
+
+===========================================================================
+
+
+	
